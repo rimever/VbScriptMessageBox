@@ -1,0 +1,2 @@
+# VbScriptMessageBox
+VbScriptでメッセージボックスを表示
